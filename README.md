@@ -1,12 +1,33 @@
-<h1 align="center">Lakshnaa ⚡</h1>
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Arial&size=28&duration=2500&color=FFFFFF&center=true&vCenter=true&width=500&lines=Hi+👋+I'm+Lakshnaa" />
+</h1>
 
+<p align="center">
+  Embedded Systems • AI Hardware • Signal Intelligence
+</p>
+
+---
+
+## 🎯 My Goal
+
+To build efficient AI systems that run on real hardware.
+
+I aim to work at the intersection of:
+
+- Embedded Systems  
+- Low-Level Engineering  
+- Edge AI Deployment  
+- AI Hardware & Accelerators   
 ---
 
 ## ⚡ Engineering Focus
 
-Embedded Systems × AI Hardware × Signal Intelligence  
+I currently work on:
 
-Designing systems from **bare-metal firmware to intelligent edge models**.
+- Bare-metal C & deterministic FSM architectures  
+- Signal processing for real-world systems  
+- 1D Deep Learning models (ECG denoising)  
+- Edge-aware ML system design  
 
 ---
 
@@ -18,38 +39,35 @@ Designing systems from **bare-metal firmware to intelligent edge models**.
 
 ---
 
-## 📊 GitHub Dashboard
+## 🧠 Selected Projects
+
+### 🫀 AI-Based ECG Signal Enhancement
+Lightweight 1D CNN for biomedical signal denoising  
+Focused on signal integrity & edge deployment thinking  
+
+### 🔧 Embedded FSM Control Systems
+Deterministic state-machine architecture  
+Modular C design with GCC & Make  
+
+### ⏱ Timer-Driven State Engine
+Event-driven embedded logic without OS  
+Predictable timing & structured firmware design  
+
+---
+
+## 📊 GitHub Activity
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/lakshhnaa/lakshhnaa/output/github-contribution-grid-snake.svg" />
+</p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=lakshhnaa&show_icons=true&theme=tokyonight&hide_border=true" width="48%"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=lakshhnaa&theme=tokyonight&hide_border=true" width="48%"/>
 </p>
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lakshhnaa&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=lakshhnaa&theme=tokyo-night&hide_border=true" />
-</p>
-
----
-
-## 🧠 Engineering Projects
-
-🫀 AI-Based ECG Signal Enhancement  
-🔧 Embedded FSM Control Systems  
-⏱ Timer-Driven State Machine Architectures  
-
----
-
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/lakshhnaa/lakshhnaa/output/github-contribution-grid-snake.svg" />
-</p>
 ---
 
 <p align="center">
-  <b>From silicon to intelligence.</b>
+  <b>Building from silicon to intelligence.</b>
 </p>
