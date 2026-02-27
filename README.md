@@ -3,12 +3,12 @@
 </h1>
 
 <p align="center">
-  Embedded Systems • AI Hardware • Signal Intelligence
+  Embedded Systems • AI Hardware 
 </p>
 
 ---
 
-## 🎯 My Goal
+## 🎯 My Interests
 
 To build efficient AI systems that run on real hardware.
 
