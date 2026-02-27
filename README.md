@@ -1,9 +1,5 @@
 <h1 align="center">Lakshnaa ⚡</h1>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=22&duration=3000&color=00F7FF&center=true&vCenter=true&width=600&lines=Embedded+Systems+Engineer;AI+Hardware+Explorer;Signal+Intelligence+Builder;Edge+AI+%7C+Low-Level+Systems" />
-</p>
-
 ---
 
 ## ⚡ Engineering Focus
@@ -52,13 +48,6 @@ Designing systems from **bare-metal firmware to intelligent edge models**.
 <p align="center">
   <img src="https://raw.githubusercontent.com/lakshhnaa/lakshhnaa/output/github-contribution-grid-snake.svg" />
 </p>
----
-
-## 🛰 Vision
-
-Building efficient AI systems that run on constrained hardware.  
-Focused on AI accelerators, edge inference, and defense-grade embedded intelligence.
-
 ---
 
 <p align="center">
