@@ -1,72 +1,67 @@
-<h1 align="center">Hi 👋, I'm Lakshnaa Jayakumar</h1>
-<h3 align="center">Embedded Systems | Low-Level C | FSM | GCC & Make</h3>
+<h1 align="center">Lakshnaa ⚡</h1>
 
----
-
-### 🧠 About Me
-- 🎓 Electronics & Computer Science Engineering Student  
-- 🔧 Interested in Embedded Software & Systems Programming  
-- 🚀 Building projects using C, GCC, Makefiles, Linux tools  
-- 🛰️ Aspiring DRDO / ISRO / Core Systems roles  
-
----
-
-### 🛠️ Languages & Tools
-
-<p align="left">
-
-  <!-- Core Programming -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40"/>
-
-  <!-- AI / Signal Processing -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matlab/matlab-original.svg" width="40"/>
-
-  <!-- Embedded / Hardware -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" width="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/5/59/KiCad-Logo.svg" width="40"/>
-
-  <!-- Tools -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="40"/>
-
-</p>
-
----
-
-### 📌 Featured Embedded Projects
-🔹 **Embedded Sensor FSM**
-- Finite State Machine: IDLE / ACTIVE / WARNING / ERROR  
-- Modular Embedded C (header + source separation)  
-- LED & Alarm logic simulation  
-- Built using **GCC + Makefile**
-
-🔹 **Timer-Driven Embedded FSM**
-- RTOS-style timer-based state transitions  
-- Event-driven logic without OS  
-- Clean build system and documentation  
-
----
-
-### 📊 GitHub Stats
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=lakshhnaa&show_icons=true&theme=dark" width="48%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=lakshhnaa&theme=dark" width="48%"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=22&duration=3000&color=00F7FF&center=true&vCenter=true&width=600&lines=Embedded+Systems+Engineer;AI+Hardware+Explorer;Signal+Intelligence+Builder;Edge+AI+%7C+Low-Level+Systems" />
 </p>
 
 ---
 
-### 📫 Connect With Me
-- 💼 LinkedIn: https://linkedin.com/in/lakshnaabj 
-- 📧 Email: lakshnaabj@gmail.com
+## ⚡ Engineering Focus
+
+Embedded Systems × AI Hardware × Signal Intelligence  
+
+Designing systems from **bare-metal firmware to intelligent edge models**.
 
 ---
 
-⭐ *Focused on strong fundamentals in Embedded Systems & Low-Level Software.*
+## 🛠 Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,matlab,pytorch,linux,git,github,arduino,raspberrypi,vscode" />
+</p>
+
+---
+
+## 📊 GitHub Dashboard
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=lakshhnaa&show_icons=true&theme=tokyonight&hide_border=true" width="48%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lakshhnaa&theme=tokyonight&hide_border=true" width="48%"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lakshhnaa&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=lakshhnaa&theme=tokyo-night&hide_border=true" />
+</p>
+
+---
+
+## 🧠 Engineering Projects
+
+🫀 AI-Based ECG Signal Enhancement  
+🔧 Embedded FSM Control Systems  
+⏱ Timer-Driven State Machine Architectures  
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/lakshhnaa/lakshhnaa/output/github-contribution-grid-snake.svg" />
+</p>
+
+---
+
+## 🛰 Vision
+
+Building efficient AI systems that run on constrained hardware.  
+Focused on AI accelerators, edge inference, and defense-grade embedded intelligence.
+
+---
+
+<p align="center">
+  <b>From silicon to intelligence.</b>
+</p>
