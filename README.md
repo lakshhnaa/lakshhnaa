@@ -52,7 +52,6 @@ Designing systems from **bare-metal firmware to intelligent edge models**.
 <p align="center">
   <img src="https://raw.githubusercontent.com/lakshhnaa/lakshhnaa/output/github-contribution-grid-snake.svg" />
 </p>
-
 ---
 
 ## 🛰 Vision
