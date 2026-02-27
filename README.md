@@ -68,6 +68,4 @@ Predictable timing & structured firmware design
 
 ---
 
-<p align="center">
-  <b>Building from silicon to intelligence.</b>
-</p>
+
