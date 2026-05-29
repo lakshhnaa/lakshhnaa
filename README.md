@@ -34,7 +34,7 @@ I currently work on:
 ## 🛠 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,matlab,pytorch,linux,git,github,arduino,raspberrypi,vscode" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,matlab,pytorch,linux,git,github,arduino,raspberrypi,vscode,scala,bash,linux,java" />
 </p>
 
 ---
