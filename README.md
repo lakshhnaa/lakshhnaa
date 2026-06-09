@@ -57,9 +57,6 @@ Predictable timing & structured firmware design
 
 ## 📊 GitHub Activity
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/lakshhnaa/lakshhnaa/main/activity.svg" />
-</p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=lakshhnaa&show_icons=true&theme=tokyonight&hide_border=true" width="48%"/>
